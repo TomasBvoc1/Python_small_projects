@@ -1,2 +1,2 @@
-# small_projects
+# small_projects_Python
 # ...
